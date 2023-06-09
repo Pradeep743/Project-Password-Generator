@@ -8,7 +8,7 @@ A simple web app to generate passwords for users. Users can select password leng
 
 ### Screenshot
 
-![Screenshot of Paswrod Generator webpage](../Password-Generator.png)
+![../Password-Generator.png]()
 
 ### Links
 
